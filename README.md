@@ -1,3 +1,5 @@
+![addingMorejs](.\passing.svg)
+
 ***
 <h2 align="center">
 🎉 Nodejs Design Patterns For Beginners! 🎉
@@ -11,14 +13,16 @@ A topic that can easily make anyone's mind wobble. Here I try to make them stick
 ​             
 
 <h3 align="center">
-     🔗 LIVE URL: <a href="https://syedsimanta03.github.io/JavaScript-Dessign-Pattern">"Design patterns by Simanta"</a> 
+     🔗 LIVE URL: <a href="https://syedsimanta03.github.io/nodejs-design-pattern-learning/">"Nodejs Design Patterns by Simanta"</a> 
 </h3>
 
-<!--I build my own online/local playground when learning new topic or language. There are tons of resources out there where you can learn the same topics described here. But if you are like me, want to learn in an organized or simplest way then this is good for you.--> 
+
+> [!NOTE]
+> I build my own online/local playground when learning new topic or language. There are tons of resources out there where you can learn the same topics described here. But if you are like me, want to learn in an organized or simplest way then this is good for you
 
 ***
 
-## :arrow_right:  Arrow function operator 
+## 🏹  Arrow function operator 
 
  An **arrow function** expression is a syntactically compact alternative to a regular **function** expression, although without its own bindings to the this , arguments , super , or new. ... **Arrow function** expressions are ill suited as methods, and they cannot be used as constructors. 
 
@@ -66,4 +70,4 @@ console.log(even);
 
 
 
-##  :dancers: let and const keywords 
+##  👫 let and const keywords 

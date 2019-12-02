@@ -72,6 +72,10 @@
       .hide {
         display: none;
       }
+	  
+	  .alert {
+		margin-top: 1rem;
+	  }
 
     </style>
   </head>
@@ -103,7 +107,10 @@
           buttonText: 'Copy to clipboard',
           errorText: 'Error',
           successText: 'Copied'
-        }
+        },
+		'flexible-alerts': {
+		style: 'flat'
+		}
       };
     </script>
     <script src="//unpkg.com/docsify/lib/docsify.min.js"></script>
@@ -143,6 +150,7 @@
 
     </script>
 
+	<script src="https://unpkg.com/docsify-plugin-flexible-alerts"></script>
 
   </body>
 </html>
