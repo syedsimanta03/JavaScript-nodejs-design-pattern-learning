@@ -1,4 +1,6 @@
-
+<h2 align="center">
+    🔗 LIVE URL JS pattern:  <a href="https://syedsimanta03.github.io/JavaScript-nodejs-design-pattern-learning"</a>Online Organized Version"</a> 
+</h2>
 
 # 🎉SECTION-1: JavaScript-ES5 to ESNext 
 
@@ -238,7 +240,7 @@ link.addEventListener('click', function() {
 
 ## Classes
 
-JavaScript has quite an uncommon way to implement inheritance: prototypical inheritance. [Prototypal inheritance](https://flaviocopes.com/javascript-prototypal-inheritance/), while in my opinion great, is unlike most other popular programming language’s implementation of inheritance, which is class-based.
+JavaScript has quite an uncommon way to implement inheritance: prototypical inheritance. While in my opinion great, is unlike most other popular programming language’s implementation of inheritance, which is class-based.
 
 People coming from Java or Python or other languages had a hard time understanding the intricacies of prototypal inheritance, so the ECMAScript committee decided to sprinkle syntactic sugar on top of prototypical inheritance so that it resembles how class-based inheritance works in other popular implementations.
 
@@ -744,15 +746,15 @@ Promises are one way to deal with asynchronous code, without writing too many ca
 
 Once a promise has been called, it will start in **pending state**. This means that the caller function continues the execution, while it waits for the promise to do its own processing, and give the caller function some feedback.
 
-At this point, the caller function waits for it to either return the promise in a **resolved state**, or in a **rejected state**, but as you know [JavaScript](https://flaviocopes.com/javascript/) is asynchronous, so *the function continues its execution while the promise does it work*.
+At this point, the caller function waits for it to either return the promise in a **resolved state**, or in a **rejected state**, but as you know it is asynchronous, so *the function continues its execution while the promise does it work*.
 
 ### Which JS API use promises?
 
 In addition to your own code and library code, promises are used by standard modern Web APIs such as:
 
 - the Battery API
-- the [Fetch API](https://flaviocopes.com/fetch-api/)
-- [Service Workers](https://flaviocopes.com/service-workers/)
+- the Fetch API
+- Service Workers
 
 It’s unlikely that in modern JavaScript you’ll find yourself *not* using promises, so let’s start diving right into them.
 
@@ -805,7 +807,7 @@ Running `checkIfItsDone()` will execute the `isItDoneYet()` promise and will wai
 
 A promise can be returned to another promise, creating a chain of promises.
 
-A great example of chaining promises is given by the [Fetch API](https://flaviocopes.com/fetch-api), a layer on top of the XMLHttpRequest API, which we can use to get a resource and queue a chain of promises to execute when the resource is fetched.
+A great example of chaining promises is given by the [Fetch API], a layer on top of the XMLHttpRequest API, which we can use to get a resource and queue a chain of promises to execute when the resource is fetched.
 
 The Fetch API is a promise-based mechanism, and calling `fetch()` is equivalent to defining our own promise using `new Promise()`.
 
@@ -987,7 +989,7 @@ An HTML page can add a module by using a `pt> tag with the sp`ecial type="m`odul
 <script type="module" src="index.js"></script>
 ```
 
-> *Note: this module import behaves like a `defer` script load. See [efficiently load JavaScript with defer and async](https://flaviocopes.com/javascript-async-defer/)*
+> *Note: this module import behaves like a `defer` script load. 
 
 It’s important to note that any script loaded with `type="module"` is loaded in strict mode.
 
@@ -1068,7 +1070,7 @@ You can import the default export, and any non-default export by name, like in t
 import React, { Component } from 'react'
 ```
 
-You can see an ES Modules example here: https://glitch.com/edit/#!/flavio-es-modules-example?path=index.html
+
 
 ### CORS
 
@@ -1139,7 +1141,7 @@ If you create a new character by combining those unicode characters:
 "\u{20bb7}" //"𠮷"
 ```
 
-More on Unicode and working with it in my [Unicode guide](https://flaviocopes.com/unicode/).
+
 
 ## New Object methods
 
@@ -2140,7 +2142,7 @@ fetch('file.json')
 
 ## Regular Expression improvements
 
-ES2018 introduced a number of improvements regarding Regular Expressions. I recommend my tutorial on them, available at https://flaviocopes.com/javascript-regular-expressions/.
+ES2018 introduced a number of improvements regarding Regular Expressions. 
 
 Here are the ES2018 specific additions.
 
@@ -2443,7 +2445,7 @@ A topic that can easily make anyone's mind wobble. Here I try to make them stick
 ​             
 
 <h3 align="center">
-    🔗 LIVE URL JS pattern:  <a href="hhttps://github.com/syedsimanta03/JavaScript-Dessign-Pattern>"</a>Another project: JavaScript Design Patterns by Simanta"</a> 
+    🔗 LIVE URL JS pattern:  <a href="https://github.com/syedsimanta03/JavaScript-Dessign-Pattern"</a>Another project: JavaScript Design Patterns by Simanta"</a> 
 </h3>
 
 
