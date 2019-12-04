@@ -2444,10 +2444,6 @@ A topic that can easily make anyone's mind wobble. Here I try to make them stick
 
 ​             
 
-<h3 align="center">
-    🔗 LIVE URL JS pattern:  <a href="https://github.com/syedsimanta03/JavaScript-Dessign-Pattern"</a>Another project: JavaScript Design Patterns by Simanta"</a> 
-</h3>
-
 
 > [!NOTE]
 > I build my own online/local playground when learning new topic or language. There are tons of resources out there where you can learn the same topics described here. But if you are like me, want to learn in an organized or simplest way then this is good for you
@@ -2567,9 +2563,12 @@ cars[0] = "Toyota";
 cars.push("Audi");
 ```
 
+​                                 Learn Some design patterns that are very useful when writing code for any project
 
 
-Thanks @Flavio for helping
-
+<h3 align="center">
+    🔗 LIVE URL JS pattern:  <a href="https://github.com/syedsimanta03/JavaScript-Dessign-Pattern"</a>Another project: JavaScript Design Patterns by Simanta"</a> 
+</h3>
 ------
 
+ThaZ All
